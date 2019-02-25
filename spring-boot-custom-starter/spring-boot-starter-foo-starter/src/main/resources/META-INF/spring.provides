@@ -1,0 +1,2 @@
+# https://github.com/spring-projects/spring-boot/issues/1926
+provides: spring-boot-starter-foo-autoconfigue,spring-boot-starter-foo-api

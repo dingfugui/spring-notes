@@ -1,0 +1,4 @@
+foo:
+  config:
+    name: abc
+    age: 9
